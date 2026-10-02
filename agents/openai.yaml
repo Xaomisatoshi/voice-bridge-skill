@@ -1,0 +1,14 @@
+interface:
+  display_name: Voice Bridge
+  short_description: Translate and adapt messages with tone, culture, and intent preserved.
+  icon: 🌉
+  brand_color: '#4B6BFB'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
